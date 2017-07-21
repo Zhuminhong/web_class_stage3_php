@@ -1,0 +1,10 @@
+USE web13;
+CREATE TABLE member1(
+id int(11) NOT NULL AUTO_INCREMENT,
+username varchar(30) DEFAULT NULL,
+pwd varchar(32) DEFAULT NULL,
+email varchar(32) NOT NULL,
+regTime datetime(0) DEFAULT NULL,
+PRIMARY KEY(id)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8;
+

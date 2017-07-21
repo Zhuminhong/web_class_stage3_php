@@ -1,0 +1,27 @@
+body{
+    font-family: 'Microsoft YaHei', sans-serif;
+}
+li{
+    list-style: none;
+}
+.taglist{
+    padding-top: 15px;
+}
+.taglist .alert{
+    margin: 0 15px 15px 0;
+}
+
+.page-header{
+    margin-top: 0;
+}
+.page-header h1{
+    margin: 0;
+    font-size: 16px;
+}
+.pad0{
+    padding: 0;
+}
+/*footer*/
+footer{
+    text-align: center;
+}
